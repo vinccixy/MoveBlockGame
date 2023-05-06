@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveBlock", "MoveBlock\MoveBlock.csproj", "{F36C5B84-D595-4798-BD54-D25AAE0401ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F36C5B84-D595-4798-BD54-D25AAE0401ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F36C5B84-D595-4798-BD54-D25AAE0401ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F36C5B84-D595-4798-BD54-D25AAE0401ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F36C5B84-D595-4798-BD54-D25AAE0401ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8E10898-5114-451E-B5D8-F868504C8C05}
+	EndGlobalSection
+EndGlobal

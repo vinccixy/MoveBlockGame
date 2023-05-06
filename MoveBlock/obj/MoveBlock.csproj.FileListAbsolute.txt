@@ -1,0 +1,26 @@
+D:\Documents and Settings\Administrator\桌面\examples\MoveBlock\MoveBlock\bin\Debug\MoveBlock.exe
+D:\Documents and Settings\Administrator\桌面\examples\MoveBlock\MoveBlock\bin\Debug\MoveBlock.pdb
+D:\Documents and Settings\Administrator\桌面\examples\MoveBlock\MoveBlock\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Administrator\桌面\examples\MoveBlock\MoveBlock\obj\Debug\MoveBlock.Form1.resources
+D:\Documents and Settings\Administrator\桌面\examples\MoveBlock\MoveBlock\obj\Debug\MoveBlock.Properties.Resources.resources
+D:\Documents and Settings\Administrator\桌面\examples\MoveBlock\MoveBlock\obj\Debug\MoveBlock.csproj.GenerateResource.Cache
+D:\Documents and Settings\Administrator\桌面\examples\MoveBlock\MoveBlock\obj\Debug\MoveBlock.exe
+D:\Documents and Settings\Administrator\桌面\examples\MoveBlock\MoveBlock\obj\Debug\MoveBlock.pdb
+C:\csharp_winform培训\习题\MoveBlock\MoveBlock\obj\Debug\MoveBlock.exe
+C:\csharp_winform培训\习题\MoveBlock\MoveBlock\obj\Debug\MoveBlock.pdb
+C:\csharp_winform培训\02 数据运算、流控制、数组\LanguageBasic\MoveBlock\MoveBlock\obj\Debug\MoveBlock.exe
+C:\csharp_winform培训\02 数据运算、流控制、数组\LanguageBasic\MoveBlock\MoveBlock\obj\Debug\MoveBlock.pdb
+C:\csharp_winform培训\02 数据运算、流控制、数组\LanguageBasic\MoveBlock\MoveBlock\bin\Debug\MoveBlock.exe
+C:\csharp_winform培训\02 数据运算、流控制、数组\LanguageBasic\MoveBlock\MoveBlock\bin\Debug\MoveBlock.pdb
+C:\csharp_winform培训\02 数据运算、流控制、数组\LanguageBasic\MoveBlock\MoveBlock\obj\Debug\ResolveAssemblyReference.cache
+C:\csharp_winform培训\02 数据运算、流控制、数组\LanguageBasic\MoveBlock\MoveBlock\obj\Debug\MoveBlock.Form1.resources
+C:\csharp_winform培训\02 数据运算、流控制、数组\LanguageBasic\MoveBlock\MoveBlock\obj\Debug\MoveBlock.Properties.Resources.resources
+C:\csharp_winform培训\02 数据运算、流控制、数组\LanguageBasic\MoveBlock\MoveBlock\obj\Debug\MoveBlock.csproj.GenerateResource.Cache
+C:\csharp课程\02 数据运算、流控制、数组\LanguageBasic\MoveBlock\MoveBlock\obj\Debug\MoveBlock.exe
+C:\csharp课程\02 数据运算、流控制、数组\LanguageBasic\MoveBlock\MoveBlock\obj\Debug\MoveBlock.pdb
+C:\csharp课程\02 数据运算、流控制、数组\LanguageBasic\MoveBlock\MoveBlock\bin\Debug\MoveBlock.exe
+C:\csharp课程\02 数据运算、流控制、数组\LanguageBasic\MoveBlock\MoveBlock\bin\Debug\MoveBlock.pdb
+C:\csharp课程\02 数据运算、流控制、数组\LanguageBasic\MoveBlock\MoveBlock\obj\Debug\ResolveAssemblyReference.cache
+C:\csharp课程\02 数据运算、流控制、数组\LanguageBasic\MoveBlock\MoveBlock\obj\Debug\MoveBlock.Form1.resources
+C:\csharp课程\02 数据运算、流控制、数组\LanguageBasic\MoveBlock\MoveBlock\obj\Debug\MoveBlock.Properties.Resources.resources
+C:\csharp课程\02 数据运算、流控制、数组\LanguageBasic\MoveBlock\MoveBlock\obj\Debug\MoveBlock.csproj.GenerateResource.Cache

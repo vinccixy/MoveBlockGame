@@ -1,0 +1,19 @@
+D:\csharp课程\02 数据运算、流控制、数组\LanguageBasic\MoveBlock\MoveBlock\obj\Debug\MoveBlock.exe
+D:\csharp课程\02 数据运算、流控制、数组\LanguageBasic\MoveBlock\MoveBlock\obj\Debug\MoveBlock.pdb
+D:\csharp课程\02 数据运算、流控制、数组\LanguageBasic\MoveBlock\MoveBlock\bin\Debug\MoveBlock.exe
+D:\csharp课程\02 数据运算、流控制、数组\LanguageBasic\MoveBlock\MoveBlock\bin\Debug\MoveBlock.pdb
+D:\csharp课程\02 数据运算、流控制、数组\LanguageBasic\MoveBlock\MoveBlock\obj\Debug\MoveBlock.csprojResolveAssemblyReference.cache
+D:\csharp课程\02 数据运算、流控制、数组\LanguageBasic\MoveBlock\MoveBlock\obj\Debug\MoveBlock.Form1.resources
+D:\csharp课程\02 数据运算、流控制、数组\LanguageBasic\MoveBlock\MoveBlock\obj\Debug\MoveBlock.Properties.Resources.resources
+D:\csharp课程\02 数据运算、流控制、数组\LanguageBasic\MoveBlock\MoveBlock\obj\Debug\MoveBlock.csproj.GenerateResource.Cache
+D:\个人\Study\MoveBlock\MoveBlock\bin\Debug\MoveBlock.exe.config
+D:\个人\Study\MoveBlock\MoveBlock\bin\Debug\MoveBlock.exe
+D:\个人\Study\MoveBlock\MoveBlock\bin\Debug\MoveBlock.pdb
+D:\个人\Study\MoveBlock\MoveBlock\obj\Debug\MoveBlock.csproj.AssemblyReference.cache
+D:\个人\Study\MoveBlock\MoveBlock\obj\Debug\MoveBlock.csproj.SuggestedBindingRedirects.cache
+D:\个人\Study\MoveBlock\MoveBlock\obj\Debug\MoveBlock.Form1.resources
+D:\个人\Study\MoveBlock\MoveBlock\obj\Debug\MoveBlock.Properties.Resources.resources
+D:\个人\Study\MoveBlock\MoveBlock\obj\Debug\MoveBlock.csproj.GenerateResource.cache
+D:\个人\Study\MoveBlock\MoveBlock\obj\Debug\MoveBlock.csproj.CoreCompileInputs.cache
+D:\个人\Study\MoveBlock\MoveBlock\obj\Debug\MoveBlock.exe
+D:\个人\Study\MoveBlock\MoveBlock\obj\Debug\MoveBlock.pdb
